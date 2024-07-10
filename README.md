@@ -1,6 +1,6 @@
 # User_Copylete
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,idea,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cmake,github,clion,&theme=light)](https://skillicons.dev)
 
 ## Goal
 
